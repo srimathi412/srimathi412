@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=SRIMATHI%20K&fontSize=55&animation=twinkling" />
+</div>
+
+
+
+<div align="center">
 
 #  Hi, I'm **Srimathi!**  
 ### *Full-Stack Developer (Fresher) | Passionate Learner | Problem Solver*
