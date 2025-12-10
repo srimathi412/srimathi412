@@ -20,6 +20,8 @@ Always learning, creating, and leveling up!
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srimathi412)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Srimathi_K/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:kit27.cse57@gmail.com)
+[![Codolio](https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=codecademy&logoColor=white)](https://codolio.com/profile/Srimathi_4125)
+
 
 ---
 
