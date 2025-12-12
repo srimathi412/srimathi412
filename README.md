@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=SRIMATHI%20K&fontSize=55&animation=twinkling" />
 </div>
 
-
-
 <div align="center">
 
 #  Hi, I'm **Srimathi!**  
@@ -21,7 +19,6 @@ Always learning, creating, and leveling up!
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Srimathi_K/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:kit27.cse57@gmail.com)
 [![Codolio](https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=codecademy&logoColor=white)](https://codolio.com/profile/Srimathi_4125)
-
 
 ---
 
